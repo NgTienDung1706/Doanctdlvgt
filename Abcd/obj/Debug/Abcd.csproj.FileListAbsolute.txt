@@ -1,0 +1,11 @@
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\bin\Debug\Abcd.exe.config
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\bin\Debug\Abcd.exe
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\bin\Debug\Abcd.pdb
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.csproj.AssemblyReference.cache
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.Form1.resources
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.FormNhapThongTinHoaQua.resources
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.Properties.Resources.resources
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.csproj.GenerateResource.cache
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.csproj.CoreCompileInputs.cache
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.exe
+D:\LTHDT\Đồ án ctdlvgt\Abcd\Abcd\obj\Debug\Abcd.pdb
